@@ -6,7 +6,7 @@
 #### Username: bandit0
 #### Password: bandit0
 
-![Bandit Level-0](/Bandit Level-0.png) 
+![Bandit Level-0](Bandit-Level-0.png) 
 
 
 
