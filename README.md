@@ -8,4 +8,4 @@ This repository contains my progress and learnings from the OverTheWire wargames
 - [Krypton](./Krypton)
 
 ## Current Progress
-- *Bandit*: Completed up to Level 5
+- *Bandit*: Completed up to Level 8
