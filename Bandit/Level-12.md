@@ -4,4 +4,4 @@
 #### Password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 #### Steps: Since the alphabets (both uppercase & lowercase' in 'data.txt' is said to be rotated by 13, then- a -> m; A -> M; n -> z; N -> Z. Thus we use 2 chained commands like- 'cat data.txt | tr 'a-zA-Z'  'n-za-mN-ZA-M'', which outputs the password. 
 
-![Bandit Level-12](Bandit-Level-12)
+![Bandit Level-12](Bandit-Level-12.png)
