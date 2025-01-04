@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8acaa667-627a-4c01-aaa1-396d2a2f1d2b)# Bandit Level 7 --> Level 8
+# Bandit Level 7 --> Level 8
 #### Goal: Find the password in the file data.txt next to the word millionth. 
 #### Username: bandit8
 #### Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
